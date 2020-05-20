@@ -24,9 +24,10 @@ function add2(n) {
 add2(2)
 
 var funkyFunction = function() {
-  return (function() {
+  return getOne function() {
     return "FUNKY!"
-  })();
+  })
+  return getOne;
 
 }
 
