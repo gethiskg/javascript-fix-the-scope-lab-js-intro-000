@@ -25,8 +25,7 @@ add2(2)
 
 var funkyFunction = function() {
   return (function() {
-    return function()  {
-      var one = "FUNKY!";
+    return FUNKY!;
 }
   })();
 
